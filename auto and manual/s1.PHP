@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Mega menu slide down on hover with carousel - Mahesh Kumar BR</title>
+    <title>Carousel auto and Manual with arrow keys to slide - Mahesh Kumar BR</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
     <style type="text/css">
